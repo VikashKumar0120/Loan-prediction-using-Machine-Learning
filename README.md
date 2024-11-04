@@ -43,8 +43,7 @@ Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income
 
 14. Property area is to be find more in semi urban areas and minimum in rural areas.
 
-
-- #All Design By: @Vikash Kumar
+##All Design By: @Vikash Kumar
 
 
 
